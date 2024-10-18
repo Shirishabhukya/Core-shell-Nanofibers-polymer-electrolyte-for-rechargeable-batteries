@@ -10,6 +10,7 @@ there are different types of sodium ion batteries among the the most widely used
 so now are mainly focused on the sodium ion batteries 
 # Sodium ion battery
 Sodium-ion batteries (Na-ion batteries) are a type of rechargeable battery that uses sodium ions as the charge carriers
-Abundance: Sodium is more abundant and less expensive than lithium, making these batteries potentially cheaper to produce1.
-Working Principle: They operate similarly to lithium-ion batteries, with sodium ions moving between the anode and cathode through an electrolyte during charge and discharge cycles2.
-Applications: Currently being explored for large-scale energy storage solutions due to their cost-effectiveness
+* Abundance: Sodium is more abundant and less expensive than lithium, making these batteries potentially cheaper to produce1.
+* Working Principle: They operate similarly to lithium-ion batteries, with sodium ions moving between the anode and cathode through an electrolyte during charge and discharge cycles2.
+* Applications: Currently being explored for large-scale energy storage solutions due to their cost-effectiveness.
+  
